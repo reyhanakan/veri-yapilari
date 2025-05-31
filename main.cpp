@@ -1,11 +1,4 @@
-/**
-* @file main.cpp
-* @description Yapılacak islemlerin secilmesi
-* @course 1.öğretim B grubu
-* @assignment 1.ödev
-* @date 6.11.24
-* @author Didem Reyhan AKAN / didem.akan@ogr.sakarya.edu.tr
-*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
