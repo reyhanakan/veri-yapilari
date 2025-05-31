@@ -1,11 +1,4 @@
-/**
-* @file Kromozom.cpp
-* @description Genlerin bağlı listelere çevrilmesi ve genel fonksiyonların yazılması
-* @course 1.öğretim B grubu
-* @assignment 1.ödev
-* @date 6.11.24
-* @author Didem Reyhan AKAN / didem.akan@ogr.sakarya.edu.tr
-*/
+
 #include "Kromozom.hpp"
 #include "Gen.hpp"
 
