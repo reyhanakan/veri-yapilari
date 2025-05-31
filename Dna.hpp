@@ -1,11 +1,4 @@
-/**
-* @file Dna.hpp
-* @description tanımlamaların ve genel fonksiyonların isimlerinin yazılması
-* @course 1.öğretim B grubu
-* @assignment 1.ödev
-* @date 6.11.24
-* @author Didem Reyhan AKAN / didem.akan@ogr.sakarya.edu.tr
-*/
+
 #ifndef DNA_HPP
 #define DNA_HPP
 
